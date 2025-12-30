@@ -32,3 +32,7 @@ Understanding Firestore queries and handling authentication states were initiall
 - Better UI and styling
 - Role-based access
 - Advanced AI-based similarity detection
+- ## Deployed URL
+https://smart-issue-board-psi.vercel.app/
+
+
