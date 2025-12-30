@@ -33,6 +33,7 @@ Understanding Firestore queries and handling authentication states were initiall
 - Role-based access
 - Advanced AI-based similarity detection
 - ## Deployed URL
-https://smart-issue-board-psi.vercel.app/
+https://smart-issue-board-git-main-vayilapalli-dileeps-projects.vercel.app/
+
 
 
